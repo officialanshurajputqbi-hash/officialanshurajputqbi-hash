@@ -20,6 +20,17 @@
 
 <br>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=officialanshurajputqbi-hash&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FF0033&text_color=E0E0E0&icon_color=8A2BE2&count_private=true" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=officialanshurajputqbi-hash&theme=dark&hide_border=true&background=000000&stroke=8A2BE2&ring=FF0033&fire=FF0033&currStreakLabel=8A2BE2" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=officialanshurajputqbi-hash&theme=react-dark&bg_color=000000&color=FF0033&line=8A2BE2&point=FF0033&hide_border=true" width="98%" />
+</p>
+
+<br>
+
 ## 🩸 IDENTITY FILE
 
 - 🎓 BCA — **Cloud Computing & Cybersecurity** @ Vivekananda Global University, Jaipur (2028)
@@ -121,19 +132,6 @@ Luhn checksum + TAC lookup
 <img src="https://img.shields.io/badge/IoT%20Systems-000000?style=for-the-badge&color=FF0033"/>
 <img src="https://img.shields.io/badge/Data%20Science-000000?style=for-the-badge&color=8A2BE2"/>
 <img src="https://img.shields.io/badge/MS%20Office-000000?style=for-the-badge&color=FF0033"/>
-
-<br>
-
-## 📡 SIGNAL ANALYSIS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=officialanshurajputqbi-hash&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FF0033&text_color=E0E0E0&icon_color=8A2BE2&count_private=true" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=officialanshurajputqbi-hash&theme=dark&hide_border=true&background=000000&stroke=8A2BE2&ring=FF0033&fire=FF0033&currStreakLabel=8A2BE2" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=officialanshurajputqbi-hash&theme=react-dark&bg_color=000000&color=FF0033&line=8A2BE2&point=FF0033&hide_border=true" width="98%" />
-</p>
 
 <br>
 
