@@ -1,109 +1,113 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/officialanshurajputqbi-hash/officialanshurajputqbi-hash/main/profile.jpg" width="130" style="border-radius:50%;border:3px solid #ff2079;box-shadow:0 0 20px #bd00ff;" />
+<img src="https://raw.githubusercontent.com/officialanshurajputqbi-hash/officialanshurajputqbi-hash/main/profile.jpg" width="120" style="border-radius:50%;border:3px solid #FF0033;box-shadow:0 0 25px #8A2BE2;" />
 
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=root%40anshu%3A~%24+whoami;%3E+BCA+%7C+Cloud+%2B+Cybersecurity;%3E+Full-Stack+%26+IoT+Builder;%3E+Freelancer+%7C+Open+to+WFH+Work" alt="Typing SVG" />
-</h1>
-
-<img src="https://img.shields.io/badge/BCA-Cloud%20%26%20Cybersecurity-bd00ff?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0d0221" />
-<img src="https://img.shields.io/badge/VGU%20Jaipur-Class%20of%202028-00f0ff?style=for-the-badge&logo=googlescholar&logoColor=000000&labelColor=0d0221" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-ff2079?style=for-the-badge&logo=probot&logoColor=white&labelColor=0d0221" />
 <br><br>
-<img src="https://komarev.com/ghpvc/?username=officialanshurajputqbi-hash&label=PROFILE%20VIEWS&color=ffb800&style=for-the-badge&labelColor=0d0221" alt="profile views" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=900&color=FF0033&center=true&vCenter=true&width=650&lines=root%40redteam%3A~%23+whoami;%3E+ANSHU+%7C+CLOUD+%2B+CYBERSECURITY;%3E+BCA+%40+VGU+JAIPUR+%7C+CLASS+OF+2028;%3E+STATUS%3A+OPEN_FOR_WORK" alt="Typing SVG" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=officialanshurajputqbi-hash&label=INTRUSION+COUNT&color=FF0033&style=for-the-badge&labelColor=000000" />
+<br><br>
+<img src="https://img.shields.io/badge/BCA-Cloud%20%26%20Cybersecurity-000000?style=for-the-badge&labelColor=000000&color=8A2BE2" />
+<img src="https://img.shields.io/badge/VGU%20Jaipur-Class%20of%202028-000000?style=for-the-badge&labelColor=000000&color=FF0033" />
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-000000?style=for-the-badge&labelColor=000000&color=8A2BE2" />
 
 </div>
 
 <br>
 
-```yaml
-anshu@kali:~$ cat about.txt
-------------------------------------------------------------------
-[+] Name        : Anshu
-[+] Role        : BCA Student — Cloud Computing & Cybersecurity
-[+] University  : Vivekananda Global University, Jaipur (2028)
-[+] Internship  : CodSoft (Data Science) | Skillcraft Technology (Cybersecurity)
-[+] Freelance   : LinkedIn | Portfolio (ansh-live.nfy.fyi)
-[+] Hackathons  : MSME Idea Hackathon 6.0 (ACIC-VGU) — Led UrjaSetu
-[+] Domains     : Cloud Computing, Cybersecurity, IoT, AI-powered Apps
-[+] Access      : OPEN_FOR_WORK :: work-from-home / freelance
-------------------------------------------------------------------
+```ansi
+[38;5;196m════════════════════════════════════════════════════════════[0m
+[38;5;196m  CLASSIFIED :: SYSTEM PROFILE — ACCESS LEVEL: PUBLIC[0m
+[38;5;196m════════════════════════════════════════════════════════════[0m
+```
+
+| FIELD | VALUE |
+|:--|:--|
+| 🩸 **Codename** | `Anshu` |
+| 🩸 **Role** | BCA Student — Cloud Computing & Cybersecurity |
+| 🩸 **University** | Vivekananda Global University, Jaipur |
+| 🩸 **Internships** | CodSoft (Data Science) · Skillcraft Technology (Cybersecurity) |
+| 🩸 **Hackathons** | MSME Idea Hackathon 6.0 (ACIC-VGU) — Led `UrjaSetu` |
+| 🩸 **Domains** | Cloud Computing · Cybersecurity · IoT · AI-powered Apps |
+| 🩸 **Access Level** | `OPEN_FOR_WORK` :: freelance / work-from-home |
+
+```ansi
+[38;5;93m════════════════════════════════════════════════════════════[0m
 ```
 
 <br>
 
-## `$ ls -la ./projects --sort=recent`
+## `[ 0x01 ]` ACTIVE EXPLOITS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 [Skillcraft Cybersecurity Internship](https://github.com/officialanshurajputqbi-hash/Skillcraft-Technology-Cybersecurity-Internship)
-Caesar Cipher, Image Encryption, Password Checker & Keylogger — cyberpunk hacker theme
-
-![Security](https://img.shields.io/badge/Security-ff2079?style=for-the-badge&labelColor=0d0221) ![JS](https://img.shields.io/badge/JS-ffb800?style=for-the-badge&labelColor=0d0221) ![HTML](https://img.shields.io/badge/HTML-00f0ff?style=for-the-badge&labelColor=0d0221)
-
-</td>
-<td width="50%" valign="top">
-
-### 💻 [CodSoft Web Dev Internship](https://github.com/officialanshurajputqbi-hash/CodSoft-Internship-Web-Development)
-Portfolio site, landing page & calculator — 3 internship tasks
-
-![HTML](https://img.shields.io/badge/HTML-00f0ff?style=for-the-badge&labelColor=0d0221) ![CSS](https://img.shields.io/badge/CSS-bd00ff?style=for-the-badge&labelColor=0d0221) ![JS](https://img.shields.io/badge/JS-ffb800?style=for-the-badge&labelColor=0d0221)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ✋ [AEROGRAPH](https://github.com/officialanshurajputqbi-hash/aerograph)
-Write math in the air — hand-tracking calculator using MediaPipe + Tesseract.js OCR
-
-![MediaPipe](https://img.shields.io/badge/MediaPipe-00f0ff?style=for-the-badge&labelColor=0d0221) ![OCR](https://img.shields.io/badge/Tesseract.js-ffb800?style=for-the-badge&labelColor=0d0221)
+> **CASE #01 — Skillcraft Cybersecurity Toolkit**
+> [→ open file](https://github.com/officialanshurajputqbi-hash/Skillcraft-Technology-Cybersecurity-Internship)
+> Caesar Cipher · Image Encryption · Password Checker · Keylogger
+> `Security` `JS` `HTML`
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 [Portfolio Website](https://github.com/officialanshurajputqbi-hash/officialanshurajputqbi-hash.github.io)
-Personal site showcasing projects, skills & achievements
-
-![HTML](https://img.shields.io/badge/HTML-00f0ff?style=for-the-badge&labelColor=0d0221) ![CSS](https://img.shields.io/badge/CSS-bd00ff?style=for-the-badge&labelColor=0d0221)
+> **CASE #02 — CodSoft Web Arsenal**
+> [→ open file](https://github.com/officialanshurajputqbi-hash/CodSoft-Internship-Web-Development)
+> Portfolio · Landing Page · Calculator
+> `HTML` `CSS` `JS`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔋 UrjaSetu
-Hybrid solar-grid intelligence IoT system for MSMEs — led at MSME Idea Hackathon 6.0
-
-![IoT](https://img.shields.io/badge/IoT-bd00ff?style=for-the-badge&labelColor=0d0221) ![Hardware](https://img.shields.io/badge/Hardware-ffb800?style=for-the-badge&labelColor=0d0221)
+> **CASE #03 — AEROGRAPH**
+> [→ open file](https://github.com/officialanshurajputqbi-hash/aerograph)
+> Air-drawing calculator — hand tracking + OCR
+> `MediaPipe` `Tesseract.js`
 
 </td>
 <td width="50%" valign="top">
 
-### 📚 GyanPath
-AI-powered learning tracker web app with Claude API integration
-
-![AI](https://img.shields.io/badge/AI-ff2079?style=for-the-badge&labelColor=0d0221) ![ClaudeAPI](https://img.shields.io/badge/Claude%20API-00f0ff?style=for-the-badge&labelColor=0d0221)
+> **CASE #04 — Portfolio Mainframe**
+> [→ open file](https://github.com/officialanshurajputqbi-hash/officialanshurajputqbi-hash.github.io)
+> Live site — projects, skills & achievements
+> `HTML` `CSS` `JS`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💬 ZinChat
-Firebase-based encrypted anonymous chat app — voice notes, file sharing, custom UI
-
-![Firebase](https://img.shields.io/badge/Firebase-ffb800?style=for-the-badge&labelColor=0d0221) ![Encryption](https://img.shields.io/badge/Encryption-bd00ff?style=for-the-badge&labelColor=0d0221)
+> **CASE #05 — UrjaSetu**
+> Hybrid solar-grid intelligence IoT system for MSMEs
+> `IoT` `Hardware` `Solar`
 
 </td>
 <td width="50%" valign="top">
 
-### 📱 IMEI Validator
-Luhn checksum validation with TAC lookup
+> **CASE #06 — GyanPath**
+> AI learning tracker — Claude API + localStorage
+> `AI` `Claude API`
 
-![Python](https://img.shields.io/badge/Python-00f0ff?style=for-the-badge&labelColor=0d0221) ![OSINT](https://img.shields.io/badge/OSINT-ff2079?style=for-the-badge&labelColor=0d0221)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+> **CASE #07 — ZinChat**
+> Encrypted anonymous chat — Firebase, voice notes
+> `Firebase` `Encryption`
+
+</td>
+<td width="50%" valign="top">
+
+> **CASE #08 — IMEI Validator**
+> Luhn checksum + TAC lookup
+> `Python` `OSINT`
 
 </td>
 </tr>
@@ -111,51 +115,51 @@ Luhn checksum validation with TAC lookup
 
 <br>
 
-## `$ cat tech_stack.log`
+## `[ 0x02 ]` TECH STACK
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,py,firebase,git,github,vscode,linux&theme=dark" />
 </p>
 
-![Cloud](https://img.shields.io/badge/Cloud%20Computing-bd00ff?style=for-the-badge&labelColor=0d0221)
-![Cyber](https://img.shields.io/badge/Cybersecurity-ff2079?style=for-the-badge&labelColor=0d0221)
-![OSINT](https://img.shields.io/badge/OSINT-00f0ff?style=for-the-badge&labelColor=0d0221)
-![IoT](https://img.shields.io/badge/IoT%20Systems-ffb800?style=for-the-badge&labelColor=0d0221)
-![Data](https://img.shields.io/badge/Data%20Science-bd00ff?style=for-the-badge&labelColor=0d0221)
-![Office](https://img.shields.io/badge/MS%20Office-00f0ff?style=for-the-badge&labelColor=0d0221)
+<img src="https://img.shields.io/badge/Cloud%20Computing-000000?style=flat-square&color=8A2BE2" />
+<img src="https://img.shields.io/badge/Cybersecurity-000000?style=flat-square&color=FF0033" />
+<img src="https://img.shields.io/badge/OSINT-000000?style=flat-square&color=8A2BE2" />
+<img src="https://img.shields.io/badge/IoT%20Systems-000000?style=flat-square&color=FF0033" />
+<img src="https://img.shields.io/badge/Data%20Science-000000?style=flat-square&color=8A2BE2" />
+<img src="https://img.shields.io/badge/MS%20Office-000000?style=flat-square&color=FF0033" />
 
-```diff
-+ Currently exploring: AI-integrated web apps, browser-based ML (MediaPipe, TensorFlow.js)
+*> currently exploring: AI-integrated web apps, browser-based ML (MediaPipe, TensorFlow.js)*
+
+<br>
+
+## `[ 0x03 ]` SIGNAL TRACE
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=officialanshurajputqbi-hash&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FF0033&text_color=E0E0E0&icon_color=8A2BE2&count_private=true" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=officialanshurajputqbi-hash&theme=dark&hide_border=true&background=000000&stroke=8A2BE2&ring=FF0033&fire=FF0033&currStreakLabel=8A2BE2" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=officialanshurajputqbi-hash&theme=react-dark&bg_color=000000&color=FF0033&line=8A2BE2&point=FF0033&hide_border=true" width="98%" />
+</p>
+
+<br>
+
+```ansi
+[38;5;196m════════════════════════════════════════════════════════════[0m
 ```
 
-<br>
-
-## `$ ./run_stats.sh`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=officialanshurajputqbi-hash&show_icons=true&theme=dark&hide_border=true&bg_color=0d0221&title_color=00f0ff&text_color=c9d1d9&icon_color=ff2079&count_private=true" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=officialanshurajputqbi-hash&theme=dark&hide_border=true&background=0d0221&stroke=bd00ff&ring=00f0ff&fire=ffb800&currStreakLabel=ff2079" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=officialanshurajputqbi-hash&theme=react-dark&bg_color=0d0221&color=00f0ff&line=ff2079&point=ffb800&hide_border=true" width="98%" />
-</p>
-
-<br>
-
-## `$ cat contact.cfg`
+## `[ 0x04 ]` CONTACT NODE
 
 <p align="left">
-  <a href="https://ansh-live.nfy.fyi" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-bd00ff?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0d0221" /></a>
-  <a href="https://www.linkedin.com/in/anshu-kumar-a51062381" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-00f0ff?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=0d0221" /></a>
+  <a href="https://ansh-live.nfy.fyi" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefox&logoColor=FF0033&color=000000&labelColor=000000" /></a>
+  <a href="https://www.linkedin.com/in/anshu-kumar-a51062381" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=8A2BE2&color=000000&labelColor=000000" /></a>
 </p>
 
-```
 > STATUS: Open for freelance work — Web Development | Data Entry | Data Science | MS Office
-```
 
 <br>
 
 <div align="center">
-<sub>⚡ connection from <b>officialanshurajputqbi-hash</b> established — thanks for visiting the terminal ⚡</sub>
+<sub>🩸 connection terminated — thanks for visiting 🩸</sub>
 </div>
